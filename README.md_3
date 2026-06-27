@@ -1,0 +1,116 @@
+# 📊 HR Analytics Dashboard
+
+## 📌 Project Overview
+
+The **HR Analytics Dashboard** is an interactive Power BI project designed to analyze employee attrition patterns and workforce demographics. The dashboard enables HR teams and business leaders to identify key factors influencing employee turnover and make data-driven decisions to improve employee retention.
+
+This project was completed as part of my **Data Analytics Internship at SkillCraft Technology**.
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze overall employee attrition.
+- Identify departments and job roles with high turnover.
+- Understand the impact of age, salary, education, and experience on attrition.
+- Track key HR KPIs through an interactive dashboard.
+- Generate actionable recommendations for improving employee retention.
+
+---
+
+## 📊 Dashboard Features
+
+### Executive Dashboard
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Age
+- Average Salary
+- Average Years at Company
+
+### Employee Analysis
+- Attrition by Department
+- Attrition by Job Role
+- Attrition by Education Field
+- Attrition by Age Group
+- Attrition by Salary Slab
+- Gender-wise Employee Distribution
+
+### Interactive Features
+- Dynamic filtering using slicers
+- KPI Cards
+- Drill-down analysis
+- Interactive charts for better business insights
+
+---
+
+## 🛠️ Tools & Concepts Used
+
+### Tools
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Dashboard Design
+
+### Concepts
+- Data Cleaning
+- Data Transformation
+- KPI Analysis
+- Data Visualization
+- Business Analytical Thinking
+
+---
+
+## 📈 Key Insights
+
+- Analyzed employee demographics and attrition trends across different departments.
+- Identified departments and job roles with the highest employee turnover.
+- Observed how age groups, education background, and salary levels influence attrition.
+- Developed interactive visualizations to support HR decision-making.
+- Created KPI dashboards that provide a quick overview of workforce performance and retention metrics.
+
+---
+
+## 💡 Business Recommendations
+
+- Focus retention strategies on departments and job roles with higher attrition.
+- Improve employee engagement programs for younger employees and newly hired staff.
+- Review compensation and career growth opportunities for employees in lower salary brackets.
+- Strengthen training, recognition, and promotion policies to improve long-term employee retention.
+- Continuously monitor HR KPIs to make proactive, data-driven workforce decisions.
+
+---
+
+## 📚 What I Learned
+
+Through this project, I gained practical experience in:
+
+- Importing and transforming HR datasets using Power Query.
+- Creating data models and writing DAX measures.
+- Designing professional, interactive Power BI dashboards.
+- Building meaningful KPIs for HR analytics.
+- Applying business analytical thinking to identify workforce challenges and recommend actionable solutions.
+- Presenting complex HR data in a simple and visually appealing format.
+
+---
+
+## 🚀 Internship
+
+This project was completed as part of my **Data Analytics Internship at SkillCraft Technology**, where I strengthened my skills in business intelligence, dashboard development, and real-world data analysis.
+
+---
+
+## 📷 Dashboard Preview
+
+> Add screenshots of your dashboard here for a better project presentation.
+
+---
+
+## 👨‍💻 Author
+
+**Tejosh Kumar**
+
+Aspiring Data Analyst | Power BI | Excel | SQL | Python
+
+Passionate about transforming data into meaningful business insights through analytics and visualization.
