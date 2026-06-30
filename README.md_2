@@ -1,0 +1,79 @@
+# Global Superstore Data Cleaning using Pandas
+
+## Project Overview
+
+This project demonstrates how to clean a dataset using the **Pandas** library in Python. The dataset used is a sample **Global Superstore** dataset containing sales records. The objective is to prepare the data for analysis by handling missing values, removing duplicate records, converting data types, and exporting the cleaned dataset.
+
+## Objectives
+
+* Load the Global Superstore dataset into a Python environment.
+* Identify missing values in the dataset.
+* Handle missing values using appropriate techniques.
+* Remove duplicate rows.
+* Convert date columns from string format to datetime format.
+* Export the cleaned dataset as a new CSV file.
+
+## Technologies Used
+
+* Python
+* Pandas
+* Google Colab (or Jupyter Notebook)
+
+## Dataset
+
+**Input File:** `Global_Superstore.csv`
+
+The dataset contains columns such as:
+
+* Order ID
+* Order Date
+* Ship Date
+* Customer Name
+* Country
+* Region
+* Segment
+* Category
+* Sub-Category
+* Sales
+* Quantity
+* Discount
+* Profit
+* Ship Mode
+
+## Data Cleaning Steps
+
+1. Imported the dataset using Pandas.
+2. Examined the dataset structure using `head()`, `info()`, and `describe()`.
+3. Identified missing values using `isnull().sum()`.
+4. Filled missing numeric values with the column mean.
+5. Filled missing text values with the most frequent (mode) value.
+6. Identified and removed duplicate rows using `drop_duplicates()`.
+7. Converted the `Order Date` and `Ship Date` columns from string format to datetime format using `pd.to_datetime()`.
+8. Saved the cleaned dataset as `Cleaned_Global_Superstore.csv`.
+
+## Output
+
+The cleaned dataset is exported as:
+
+`Cleaned_Global_Superstore.csv`
+
+This file contains:
+
+* No duplicate records.
+* Missing values handled appropriately.
+* Correct datetime format for date columns.
+* Data ready for further analysis and visualization.
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Preprocessing
+* Missing Value Treatment
+* Duplicate Removal
+* Data Type Conversion
+* CSV File Handling
+* Pandas Library
+
+## Conclusion
+
+This project demonstrates essential data cleaning techniques using the Pandas library. Performing these preprocessing steps improves data quality and prepares the dataset for reliable data analysis, reporting, and machine learning tasks.
