@@ -1,0 +1,33 @@
+import pandas as pd
+
+from google.colab import files
+uploaded = files.upload()
+
+df = pd.read_csv("Global_Superstore.csv")
+
+print(df.head())
+print(df.info())
+print(df.isnull().sum())
+
+
+numeric_columns = df.select_dtypes(include=['number']).columns
+for col in numeric_columns:
+    df[col] = df[col].fillna(df[col].mean())
+
+
+object_columns = df.select_dtypes(include=['object']).columns
+for col in object_columns:
+    df[col] = df[col].fillna(df[col].mode()[0])
+
+
+df.drop_duplicates(inplace=True)
+
+df["Order Date"] = pd.to_datetime(df["Order Date"])
+df["Ship Date"] = pd.to_datetime(df["Ship Date"])
+
+
+print(df.info())
+
+df.to_csv("Cleaned_Global_Superstore.csv", index=False)
+
+files.download("Cleaned_Global_Superstore.csv")
