@@ -1,0 +1,204 @@
+Campaign ID,Campaign,Marketing Channel,Audience Segment,Region,Date,Spend,Revenue,Impressions,Clicks,Conversions
+CMP001,Summer Sale,Google Ads,Students,East,2025-05-30,1957.25,1979.15,12602,7552,264
+CMP002,Brand Awareness,Google Ads,Professionals,North,2025-05-22,1466.14,1349.33,60642,584,428
+CMP003,Referral,Google Ads,Enterprise,North,2025-02-26,3044.54,6474.0,11105,4660,444
+CMP004,Referral,Google Ads,Small Business,South,2025-01-27,1099.29,,81231,4779,332
+CMP005,Summer Sale,Email,Students,South,2025-05-08,1345.42,1259.86,94181,4455,223
+CMP006,Brand Awareness,Instagram,Small Business,South,2025-02-16,3997.53,5803.78,96618,6488,129
+CMP007,Brand Awareness,Instagram,Enterprise,East,2025-06-05,868.35,1059.69,14594,1067,267
+CMP008,Festive Offer,LinkedIn,Enterprise,North,2025-06-21,2381.55,4429.68,15173,6363,290
+CMP009,Product Launch,Instagram,Small Business,West,2025-05-29,3078.62,6236.26,64795,663,435
+CMP010,Summer Sale,Google Ads,Small Business,West,2025-03-14,921.18,1085.07,98929,3260,459
+CMP011,Brand Awareness,Instagram,Professionals,North,2025-05-07,3508.94,2917.99,12727,1887,398
+CMP012,Brand Awareness,LinkedIn,Enterprise,North,2025-02-12,1793.44,3288.65,63875,3390,286
+CMP013,Brand Awareness,Email,Small Business,West,2025-04-02,1750.28,1735.75,94485,7343,199
+CMP014,Festive Offer,Facebook,Professionals,South,2025-01-04,4809.79,4864.09,68565,6908,306
+CMP015,Festive Offer,LinkedIn,Small Business,East,2025-02-02,1320.54,1577.65,95504,7138,268
+CMP016,Summer Sale,LinkedIn,Enterprise,West,2025-04-13,4776.01,8200.18,56658,948,251
+CMP017,Summer Sale,Facebook,Enterprise,South,2025-01-29,3354.3,2975.76,49571,5021,31
+CMP018,Referral,Google Ads,Small Business,North,2025-01-19,960.71,,32256,5130,197
+CMP019,Product Launch,Email,Small Business,West,2025-02-01,1168.48,1347.45,20119,7054,254
+CMP020,Brand Awareness,Instagram,Students,South,2025-01-27,4968.96,7216.84,49909,6164,140
+CMP021,Referral,Google Ads,Professionals,East,2025-02-07,2653.8,4694.25,95448,4549,473
+CMP022,Summer Sale,Instagram,Small Business,South,2025-04-02,621.69,957.0,34201,4462,282
+CMP023,Festive Offer,Email,Professionals,South,2025-04-13,4005.75,5053.38,34719,1737,270
+CMP024,Summer Sale,Instagram,Enterprise,East,2025-02-19,2717.52,4955.14,95770,5057,494
+CMP025,Product Launch,Instagram,Students,South,2025-01-27,2049.26,3959.15,34733,3950,105
+CMP026,Referral,Google Ads,Enterprise,East,2025-06-14,2019.82,2980.68,16112,6937,343
+CMP027,Festive Offer,LinkedIn,Professionals,West,2025-06-12,1039.57,1397.13,48583,810,415
+CMP028,Brand Awareness,LinkedIn,Students,South,2025-02-13,4757.74,8614.15,21651,325,82
+CMP029,Festive Offer,Email,Enterprise,East,2025-02-09,3158.66,4584.78,76913,4591,72
+CMP030,Summer Sale,Email,Professionals,West,2025-02-19,596.29,1144.34,32661,329,133
+CMP031,Referral,Instagram,Small Business,West,2025-02-03,1457.51,,12982,7554,383
+CMP032,Referral,Email,Enterprise,South,2025-05-17,2092.03,3015.51,24901,4388,266
+CMP033,Festive Offer,Email,Students,South,2025-02-14,584.17,827.29,23554,3978,321
+CMP034,Product Launch,Email,Enterprise,North,2025-05-24,3763.37,5942.61,12447,2135,102
+CMP035,Referral,LinkedIn,Students,North,2025-04-24,1746.13,3284.76,47678,5117,263
+CMP036,Product Launch,LinkedIn,Enterprise,South,2025-06-28,3227.62,3483.13,73578,7280,453
+CMP037,Referral,Facebook,Enterprise,South,2025-04-17,4739.81,5514.43,20941,3314,231
+CMP038,Brand Awareness,Google Ads,Professionals,East,2025-02-01,1921.91,3343.39,25243,7796,371
+CMP039,Product Launch,Facebook,Enterprise,South,2025-01-25,3395.56,4457.2,57200,7349,254
+CMP040,Festive Offer,,Enterprise,West,2025-03-28,1232.58,2138.48,60217,1703,187
+CMP041,Summer Sale,Instagram,Enterprise,West,2025-06-30,1933.37,3501.35,7370,3248,174
+CMP042,Summer Sale,Google Ads,Professionals,North,2025-01-22,2828.45,3432.71,39808,2327,25
+CMP043,Festive Offer,LinkedIn,Small Business,West,2025-02-08,4576.54,4824.46,75333,7629,268
+CMP044,Summer Sale,Instagram,Students,South,2025-04-19,3067.68,5462.26,14491,2303,485
+CMP045,Product Launch,Google Ads,Professionals,North,2025-03-09,575.74,531.98,20948,3817,10
+CMP046,Product Launch,Email,Professionals,North,2025-05-15,2026.18,3189.79,98000,2053,485
+CMP047,Summer Sale,Facebook,Professionals,East,2025-06-10,992.53,1018.36,44977,4450,393
+CMP048,Festive Offer,Instagram,Small Business,North,2025-03-06,1426.42,2031.17,9843,225,14
+CMP049,Festive Offer,Email,Enterprise,South,2025-04-25,3798.86,5969.79,18930,5492,424
+CMP050,Referral,LinkedIn,Small Business,South,2025-02-28,3425.48,5888.79,49918,1727,431
+CMP051,Festive Offer,LinkedIn,Small Business,North,2025-02-03,4468.68,8134.7,6868,679,325
+CMP052,Festive Offer,Google Ads,Students,West,2025-05-10,3834.0,4439.13,92889,2409,311
+CMP053,Brand Awareness,Facebook,Professionals,East,2025-04-25,1589.96,1924.3,5474,2256,191
+CMP054,Referral,Instagram,Professionals,North,2025-03-21,4828.04,10436.64,33556,3021,98
+CMP055,Brand Awareness,Instagram,Professionals,South,2025-05-10,504.81,673.56,5648,844,140
+CMP056,Referral,Google Ads,Enterprise,North,2025-03-18,4176.7,4182.59,44877,5258,124
+CMP057,Festive Offer,Email,Enterprise,East,2025-05-07,880.17,1884.17,24590,2427,375
+CMP058,Referral,LinkedIn,Professionals,North,2025-06-25,3284.18,3292.89,81554,6636,462
+CMP059,Festive Offer,Google Ads,Students,North,2025-02-04,3700.34,7913.21,88508,3054,496
+CMP060,Referral,Google Ads,Students,South,2025-05-06,972.12,1915.22,39575,127,238
+CMP061,Referral,Email,Students,North,2025-05-02,4089.64,7555.9,38055,6729,43
+CMP062,Festive Offer,Facebook,Enterprise,West,2025-04-08,4307.6,4861.99,15058,4024,471
+CMP063,Referral,Facebook,Students,South,2025-03-26,3576.63,6701.74,38284,5437,385
+CMP064,Festive Offer,Google Ads,Enterprise,North,2025-05-05,3617.99,6040.64,40228,5605,55
+CMP065,Product Launch,Email,Small Business,West,2025-04-30,3614.83,6311.46,66124,6384,65
+CMP066,Product Launch,Google Ads,Enterprise,North,2025-03-16,4969.85,7796.24,65158,726,424
+CMP067,Product Launch,LinkedIn,Professionals,South,2025-01-20,2779.78,6094.54,81214,839,77
+CMP068,Product Launch,Facebook,Small Business,North,2025-06-30,3863.69,4507.12,52865,1995,259
+CMP069,Summer Sale,Facebook,Students,West,2025-06-24,4539.68,6721.44,64082,3421,159
+CMP070,Brand Awareness,Instagram,Students,East,2025-01-01,3772.32,5215.81,47539,6250,178
+CMP071,Festive Offer,Google Ads,Small Business,East,2025-04-06,4276.0,4139.42,13516,3318,204
+CMP072,Product Launch,LinkedIn,Small Business,North,2025-03-13,4994.57,8115.41,18331,522,432
+CMP073,Festive Offer,Facebook,Small Business,West,2025-05-11,3478.9,5875.68,46366,1655,400
+CMP074,Summer Sale,LinkedIn,Professionals,North,2025-01-13,2180.07,4662.37,58855,3793,319
+CMP075,Product Launch,LinkedIn,Students,South,2025-02-13,3887.01,6616.81,66890,3498,180
+CMP076,Product Launch,LinkedIn,Professionals,East,2025-05-04,1767.86,2047.25,78049,5579,206
+CMP077,Summer Sale,Facebook,Enterprise,South,2025-04-26,1038.84,1766.53,48625,6319,235
+CMP078,Festive Offer,Google Ads,Professionals,East,2025-05-23,2423.4,3797.22,16939,2715,127
+CMP079,Festive Offer,Google Ads,Enterprise,West,2025-04-16,2157.37,4170.42,73703,1820,197
+CMP080,Brand Awareness,Instagram,Small Business,South,2025-06-25,1716.08,3179.82,70981,4435,327
+CMP081,Summer Sale,Instagram,Professionals,West,2025-04-13,4056.4,8064.47,89645,3752,226
+CMP082,Summer Sale,Facebook,Students,West,2025-05-02,4792.75,9528.74,81962,4112,5
+CMP083,Referral,LinkedIn,Enterprise,South,2025-01-28,829.12,1743.09,34333,1364,82
+CMP084,Brand Awareness,Google Ads,Students,North,2025-02-02,2850.65,5002.62,35484,4764,475
+CMP085,Festive Offer,Instagram,Enterprise,North,2025-01-26,669.16,1205.18,14221,2560,273
+CMP086,Product Launch,Facebook,Students,North,2025-05-18,4745.93,5070.47,44520,3873,147
+CMP087,Festive Offer,LinkedIn,Professionals,South,2025-01-08,4815.23,8197.48,58976,5872,337
+CMP088,Brand Awareness,LinkedIn,Students,East,2025-02-28,1883.29,1564.08,92471,3576,478
+CMP089,Product Launch,LinkedIn,Small Business,West,2025-02-20,2165.98,3227.57,5885,6629,154
+CMP090,Festive Offer,LinkedIn,Professionals,East,2025-02-19,3826.08,5765.25,35252,3910,118
+CMP091,Summer Sale,Email,Enterprise,South,2025-02-27,1692.6,3461.48,68576,3516,471
+CMP092,Festive Offer,LinkedIn,Students,South,2025-01-07,3493.82,7435.78,83135,1262,217
+CMP093,Brand Awareness,LinkedIn,Small Business,North,2025-01-21,733.28,648.36,26709,2797,102
+CMP094,Brand Awareness,Google Ads,Small Business,West,2025-04-06,1334.8,2816.74,48476,3724,91
+CMP095,Summer Sale,Instagram,Enterprise,North,2025-05-24,990.31,900.73,32184,3214,187
+CMP096,Brand Awareness,Google Ads,Students,West,2025-02-20,3959.29,4878.55,53852,4536,475
+CMP097,Brand Awareness,Google Ads,Enterprise,South,2025-06-10,2508.56,3142.3,58054,433,197
+CMP098,Summer Sale,Instagram,Professionals,North,2025-06-05,656.84,583.02,49442,3073,144
+CMP099,Summer Sale,Instagram,Small Business,East,2025-03-18,2007.37,4286.27,5494,6011,391
+CMP100,Summer Sale,,Professionals,North,2025-05-02,3180.06,6130.91,98791,7937,243
+CMP101,Product Launch,LinkedIn,Enterprise,South,2025-05-08,4792.6,6427.46,28978,171,415
+CMP102,Festive Offer,Email,Professionals,East,2025-03-23,4689.75,5743.26,65395,3064,406
+CMP103,Festive Offer,LinkedIn,Professionals,South,2025-04-15,4020.12,3660.8,13484,5421,22
+CMP104,Festive Offer,LinkedIn,Students,North,2025-03-09,2667.6,,86867,788,111
+CMP105,Brand Awareness,Facebook,Professionals,South,2025-04-17,933.9,1398.86,65414,5181,461
+CMP106,Summer Sale,,Small Business,East,2025-05-26,3533.49,6526.95,40083,3155,135
+CMP107,Festive Offer,Facebook,Professionals,South,2025-02-09,3821.3,4122.67,41877,7343,469
+CMP108,Brand Awareness,Instagram,Professionals,South,2025-06-16,3102.26,,18178,5452,242
+CMP109,Brand Awareness,Facebook,Enterprise,East,2025-01-11,4959.3,4677.94,43492,2007,66
+CMP110,Referral,Facebook,Students,East,2025-05-12,726.76,1192.39,28299,3779,313
+CMP111,Summer Sale,Google Ads,Small Business,South,2025-01-10,1669.77,3154.01,53327,2885,77
+CMP112,Summer Sale,Email,Professionals,North,2025-03-25,698.75,1537.13,58607,5656,195
+CMP113,Festive Offer,Google Ads,Enterprise,West,2025-01-17,1333.15,1649.21,58499,930,412
+CMP114,Referral,Google Ads,Professionals,West,2025-06-28,2278.84,3578.22,40542,3456,150
+CMP115,Summer Sale,Instagram,Small Business,West,2025-04-17,3505.15,,7387,7179,397
+CMP116,Festive Offer,LinkedIn,Enterprise,South,2025-01-02,4984.79,6526.56,61906,7486,85
+CMP117,Brand Awareness,Email,Small Business,West,2025-02-11,2406.9,4689.88,22036,221,31
+CMP118,Brand Awareness,Google Ads,Small Business,South,2025-02-07,2981.97,5060.2,50605,2420,87
+CMP119,Summer Sale,LinkedIn,Enterprise,South,2025-03-19,2845.21,5962.71,21600,6959,487
+CMP120,Product Launch,Google Ads,Enterprise,North,2025-06-08,695.74,1445.69,95205,6854,461
+CMP121,Festive Offer,Email,Enterprise,South,2025-05-02,1221.24,2320.55,28981,4731,116
+CMP122,Festive Offer,,Small Business,North,2025-02-08,687.71,1453.8,37382,6038,422
+CMP123,Referral,Google Ads,Small Business,North,2025-04-10,4537.83,3891.36,83580,3833,286
+CMP124,Brand Awareness,Instagram,Professionals,West,2025-04-10,4320.54,8162.89,91355,3110,233
+CMP125,Summer Sale,Email,Enterprise,West,2025-03-02,2766.1,2905.15,63565,6355,321
+CMP126,Festive Offer,LinkedIn,Enterprise,North,2025-01-18,4009.89,5780.68,21836,3037,225
+CMP127,Referral,Email,Students,North,2025-06-12,2144.0,4123.33,22074,773,477
+CMP128,Referral,Google Ads,Students,West,2025-06-17,3800.66,7178.27,22850,311,443
+CMP129,Summer Sale,Facebook,Professionals,West,2025-03-15,798.71,1325.68,26641,5720,408
+CMP130,Product Launch,Email,Small Business,South,2025-03-24,3744.86,4155.21,85416,2352,468
+CMP131,Referral,LinkedIn,Professionals,East,2025-06-07,4170.32,4174.5,71323,2044,168
+CMP132,Brand Awareness,Facebook,Small Business,East,2025-04-07,2175.2,2345.99,27117,6589,406
+CMP133,Summer Sale,Instagram,Enterprise,North,2025-03-06,1689.53,3168.84,75215,5259,443
+CMP134,Product Launch,LinkedIn,Small Business,South,2025-04-03,2274.15,4358.95,48362,6363,46
+CMP135,Summer Sale,Instagram,Small Business,East,2025-06-13,2490.27,2608.45,81791,7705,344
+CMP136,Summer Sale,Facebook,Professionals,East,2025-06-07,4530.75,8274.3,87001,3640,218
+CMP137,Festive Offer,LinkedIn,Professionals,North,2025-01-06,2807.05,5765.01,12129,121,295
+CMP138,Product Launch,Email,Professionals,West,2025-05-30,2097.33,1990.17,44472,4925,73
+CMP139,Brand Awareness,Facebook,Professionals,North,2025-03-04,1418.83,2374.41,97729,1323,235
+CMP140,Product Launch,LinkedIn,Small Business,North,2025-01-15,931.12,1576.85,89534,6824,292
+CMP141,Referral,LinkedIn,Enterprise,South,2025-02-12,4517.04,7374.58,5052,460,36
+CMP142,Festive Offer,Facebook,Students,North,2025-01-04,2891.87,3957.19,85299,4613,341
+CMP143,Festive Offer,Email,Enterprise,South,2025-05-11,4734.14,4730.23,45551,622,158
+CMP144,Brand Awareness,Email,Students,West,2025-04-22,3316.84,7269.47,65983,759,384
+CMP145,Summer Sale,Instagram,Professionals,North,2025-02-01,3449.89,3607.03,48976,7401,388
+CMP146,Product Launch,Google Ads,Small Business,West,2025-06-25,4663.3,9886.15,73582,2273,156
+CMP147,Festive Offer,Google Ads,Students,South,2025-03-08,3389.01,7290.43,35947,6995,385
+CMP148,Product Launch,Facebook,Enterprise,East,2025-06-03,1412.49,,36348,3208,469
+CMP149,Referral,LinkedIn,Enterprise,North,2025-01-07,4333.68,9058.9,62306,7929,376
+CMP150,Festive Offer,LinkedIn,Students,South,2025-02-07,1552.23,3164.47,9314,320,62
+CMP151,Product Launch,Facebook,Students,North,2025-01-11,980.05,2058.62,23140,5773,334
+CMP152,Summer Sale,,Small Business,South,2025-05-17,3352.45,5953.32,92053,640,455
+CMP153,Brand Awareness,,Professionals,South,2025-02-22,4405.07,9163.3,19676,377,22
+CMP154,Summer Sale,Instagram,Enterprise,North,2025-02-03,4771.63,9903.78,17826,6587,392
+CMP155,Product Launch,LinkedIn,Small Business,North,2025-03-31,3408.44,4131.86,38646,7719,149
+CMP156,Product Launch,Email,Enterprise,East,2025-06-08,717.84,1337.91,9060,6563,216
+CMP157,Summer Sale,Instagram,Enterprise,North,2025-05-18,640.62,977.63,79199,1874,370
+CMP158,Product Launch,Facebook,Enterprise,North,2025-05-15,4380.08,4061.41,31481,2462,395
+CMP159,Product Launch,LinkedIn,Students,West,2025-06-27,3877.33,3394.8,29185,4151,308
+CMP160,Product Launch,Email,Professionals,East,2025-02-24,2062.34,4051.61,96682,1996,260
+CMP161,Summer Sale,LinkedIn,Students,East,2025-04-02,1246.06,2634.41,17471,3387,480
+CMP162,Summer Sale,LinkedIn,Students,East,2025-02-22,2275.7,4657.38,44733,2256,224
+CMP163,Brand Awareness,Facebook,Enterprise,South,2025-05-17,4555.47,6840.8,82868,6280,357
+CMP164,Product Launch,Email,Small Business,South,2025-04-26,3888.45,6629.11,91782,4636,384
+CMP165,Product Launch,Email,Professionals,South,2025-03-27,1955.0,2831.66,65557,5365,458
+CMP166,Product Launch,Instagram,Professionals,South,2025-03-05,3634.54,5491.01,99786,2775,313
+CMP167,Product Launch,Facebook,Small Business,North,2025-02-12,2849.8,2921.88,91232,932,105
+CMP168,Product Launch,Instagram,Enterprise,East,2025-02-20,2229.05,4853.46,19323,5326,471
+CMP169,Brand Awareness,,Students,North,2025-04-13,980.91,1068.23,62216,5780,118
+CMP170,Brand Awareness,Google Ads,Professionals,East,2025-06-04,2752.19,4638.35,58046,145,384
+CMP171,Referral,Email,Enterprise,South,2025-06-20,1590.28,3171.09,99662,5445,455
+CMP172,Referral,Facebook,Professionals,North,2025-04-27,4449.23,7556.44,61692,2664,138
+CMP173,Brand Awareness,Facebook,Enterprise,South,2025-03-06,3327.25,3117.68,60519,4054,238
+CMP174,Referral,Facebook,Small Business,North,2025-04-10,588.46,1178.07,69204,7539,59
+CMP175,Festive Offer,Facebook,Small Business,North,2025-05-28,671.65,,64871,4532,109
+CMP176,Product Launch,Email,Small Business,West,2025-04-27,3727.83,5655.37,32536,5706,99
+CMP177,Summer Sale,Email,Small Business,North,2025-03-06,2266.22,4232.81,40960,3228,209
+CMP178,Brand Awareness,Instagram,Small Business,North,2025-02-27,776.77,703.18,44779,6174,210
+CMP179,Festive Offer,LinkedIn,Enterprise,South,2025-02-12,4729.69,,21947,7713,402
+CMP180,Festive Offer,LinkedIn,Professionals,South,2025-04-01,810.03,1553.44,92298,5333,430
+CMP181,Brand Awareness,Instagram,Professionals,West,2025-04-01,4184.33,8128.69,35206,2290,365
+CMP182,Brand Awareness,Facebook,Enterprise,North,2025-03-13,2192.67,2532.47,51920,2106,340
+CMP183,Brand Awareness,Email,Students,East,2025-02-09,1858.19,2734.09,44736,7099,202
+CMP184,Product Launch,Facebook,Small Business,North,2025-06-18,756.78,1482.58,6504,1818,492
+CMP185,Referral,Google Ads,Professionals,South,2025-02-17,824.0,997.2,64239,2938,406
+CMP186,Referral,Facebook,Students,East,2025-02-20,1187.02,2452.05,69810,5775,114
+CMP187,Brand Awareness,Google Ads,Students,East,2025-04-18,2888.58,5311.16,35693,6875,76
+CMP188,Brand Awareness,LinkedIn,Professionals,West,2025-03-05,2629.59,4154.97,70296,1448,281
+CMP189,Festive Offer,Instagram,Enterprise,West,2025-06-20,3198.21,5847.69,43904,6985,243
+CMP190,Summer Sale,Facebook,Small Business,North,2025-01-06,2187.31,3032.36,84911,475,354
+CMP191,Summer Sale,Email,Enterprise,West,2025-02-06,3814.44,8386.35,9442,1847,372
+CMP192,Summer Sale,Instagram,Small Business,West,2025-05-15,2370.16,2317.22,77630,6412,472
+CMP193,Brand Awareness,Instagram,Students,East,2025-03-16,1448.26,2040.98,51553,6880,257
+CMP194,Product Launch,Email,Small Business,South,2025-06-17,2316.78,3487.33,69512,6587,65
+CMP195,Product Launch,Facebook,Students,North,2025-04-13,1989.03,2474.22,99722,4640,458
+CMP196,Brand Awareness,Instagram,Students,North,2025-01-12,2327.13,3731.93,29895,6833,476
+CMP197,Summer Sale,Email,Enterprise,South,2025-06-10,2637.74,4938.84,93303,5804,357
+CMP198,Festive Offer,,Enterprise,South,2025-01-26,3183.39,5581.66,91981,1585,450
+CMP199,Summer Sale,Instagram,Professionals,East,2025-05-24,666.4,,98078,2213,446
+CMP200,Product Launch,Google Ads,Enterprise,North,2025-05-08,1859.18,2585.19,79384,4377,25
+CMP006,Brand Awareness,Instagram,Small Business,South,2025-02-16,3997.53,5803.78,96618,6488,129
+CMP026,Referral,Google Ads,Enterprise,East,2025-06-14,2019.82,2980.68,16112,6937,343
+CMP051,Festive Offer,LinkedIn,Small Business,North,2025-02-03,4468.68,8134.7,6868,679,325
